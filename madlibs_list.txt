@@ -9,7 +9,7 @@
 9. Noun
 10. Room Name
 11. Liquid
-12. lumpy
+12. Lumpy
 13. Gold
 14. Running
 15. Away
