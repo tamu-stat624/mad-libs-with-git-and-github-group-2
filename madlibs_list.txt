@@ -3,12 +3,12 @@
 3. Adjective
 4. Color
 5. Month
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
+6. 9
+7. planets (Plural)
+8. stars (Plural)
+9. various colors
+10. spaceship
+11. Clarifiers
 12. Adjective
 13. Material
 14. Activity
