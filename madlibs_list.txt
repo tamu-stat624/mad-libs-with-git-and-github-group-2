@@ -9,10 +9,10 @@
 9. Noun
 10. Room Name
 11. Liquid
-12. Lumpy
-13. Gold
-14. Running
-15. Away
+12. lumpy
+13. gold
+14. running
+15. away
 16. Number
 17. Unit of Time
 18. Different Activity
