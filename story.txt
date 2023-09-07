@@ -1,9 +1,16 @@
 Title: The Galactic Adventure
 
+<<<<<<< HEAD
 Dear Nithya,
 
 I am writing to you from a beautiful spaceship in a fantastic galaxy. I found myself here one day after
 going for a ride on a orange rocket in October. There are [6] [7] and [8] of [9] here! In the
+=======
+Dear Shravani,
+
+I am writing to you from a futuristic spaceship in a distant galaxy. I found myself here one day after
+going for a ride on a white rocket in August. There are [6] [7] and [8] of [9] here! In the
+>>>>>>> 6f2da5e5e3e02d9b27be33331789cba689258072
 [10] there is a pool full of [11]. I fall asleep each night on a [12] bed of
 [13] and dream of [14] [15]. It feels as though I have lived here for
 [16] [17]. I hope one day you can visit, although the only way to get here now is
