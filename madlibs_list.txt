@@ -3,19 +3,19 @@
 3. fantastic
 4. orange
 5. October
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
+6. 9
+7. planets
+8. stars
+9. various colors
+10. spaceship
+11. liquid chocolate
 12. Adjective
 13. Material
 14. Activity
 15. Adverb
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+16. gazillion
+17. centuries
+18. teleportation
+19. lighting-fast
+20. spaceship
+21. Harsha
