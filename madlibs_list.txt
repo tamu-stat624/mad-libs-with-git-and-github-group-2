@@ -1,21 +1,23 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
+
+1. Nithya
+2. futuristic
+3. distant
+4. white
+5. August
+6. 9
+7. planets
+8. stars
+9. various colors
+10. spaceship
+11. liquid chocolate
 12. lumpy
 13. gold
 14. running
 15. away
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+16. gazillion
+17. centuries
+18. teleportation
+19. lighting-fast
+20. spaceship
+21. Harsha
+
